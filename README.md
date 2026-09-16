@@ -4,7 +4,7 @@
 
 Maintainer: Chao Qin (ORCID [0009-0006-2000-5644](https://orcid.org/0009-0006-2000-5644)), Xingyi Juexiao Information Consulting Center
 
-- Zenodo (frozen v1.0 snapshot, CN+EN): [doi:10.5281/zenodo.22790075](https://doi.org/10.5281/zenodo.22785851/22790075) → **10.5281/zenodo.22790075**
+- Zenodo (frozen v1.0 snapshot, CN+EN): [doi:10.5281/zenodo.22790075](https://doi.org/10.5281/zenodo.22790075) → **10.5281/zenodo.22790075**
 - This repository: the **living version** — the standard, the genealogy register (updated as members are certified), the application template, and the currently posed problems.
 
 > **Terminology note**: "constructive mathematics" in this framework refers to a **certification system for axiomatic constructions** — which object universes deserve to be built axiomatically from observation, and how their membership is evaluated. It is **orthogonally complementary** to the constructive mathematics of the Bishop tradition (1967), which constrains the logical methods of proof. See §1.2 of the standard for the full demarcation.
