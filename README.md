@@ -16,7 +16,7 @@ Maintainer: Chao Qin (ORCID [0009-0006-2000-5644](https://orcid.org/0009-0006-20
 | File | Content |
 |---|---|
 | `constructive_mathematics_certification_standard_v1.3_CN.md` / `_EN.md` (latest; v1.0 files retained) | The standard: definition, demarcations (Bishop / reduction-style axiomatization / concept extension), construction modes, the C-criteria (C1 observational origin · C2 independence pre-check · C3 self-construction watershed · C4 specialization crown · C5 layered self-containedness · C6 machine checkability [hard criterion] · C7 provenance comparison), the certification process, **§4.1 derivation / absorption / completion of member axiom systems (the E-criteria, new in v1.1)**, the genealogy register snapshot, construction-difficulty decomposition, and the D/O/J problem-grading specification |
-| `certification_application_template_v0.1.md` | The application template (P0 + C1–C7, item by item) |
+| `certification_application_template_v0.2.md` | The application template (P0 + C1–C7, item by item) |
 | `posed_problem_001_distribution_semiring_spectral_theorem_v0.1.md` | Posed problem #001 (D-Ⅱ→Ⅲ / O0 / S) |
 | `solicitation_axisless_electron_v0.1.md` | Fourth-tier solicitation: descriptions and tests of the published axisless-electron concept |
 
@@ -39,7 +39,7 @@ Maintainer: Chao Qin (ORCID [0009-0006-2000-5644](https://orcid.org/0009-0006-20
 
 ## How to apply / interact
 
-1. **Certification application**: fill in the template (`certification_application_template_v0.1.md`), including the Lean formalization of your axiom set and the zero-`sorry` core theorem family. Email to wo@vortex-mesh.top.
+1. **Certification application**: fill in the template (`certification_application_template_v0.2.md`), including the Lean formalization of your axiom set and the zero-`sorry` core theorem family. Email to wo@vortex-mesh.top.
 2. **Posed problems**: see `posed_problem_001_*`; any progress (partial results / counterexamples / literature pointers) is welcome.
 3. **Fourth-tier solicitation** (`solicitation_axisless_electron_*`): descriptions, precisifications, tests, or counterexample candidates for a published original concept.
 4. All submissions receive itemized adjudication feedback; submitted contributions are credited (with the submitter's consent); counterexamples are recorded and answered publicly.
