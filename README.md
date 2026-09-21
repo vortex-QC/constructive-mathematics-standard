@@ -32,6 +32,8 @@ Maintainer: Chao Qin (ORCID [0009-0006-2000-5644](https://orcid.org/0009-0006-20
 
 **Completion note (2026-09-21)**: per §4.1 E5 (absorption is replacement), the motion-layer axiom system has been completed — its current axiom set is the anchored version (complete dynamic numbers), published as [Anchor Numbers, 22866459](https://doi.org/10.5281/zenodo.22866459). The register row is unchanged and no new row is added.
 
+**First formal application on record (2026-09-21)**: the Dimensional Construction certification application (the 5th member) is filed as [`certification_application_005_dimensional_construction_v1.1.md`](certification_application_005_dimensional_construction_v1.1.md) — C1–C7 assessed item-by-item with evidence pointers (Lean: zero `sorry`, kernel-checkable), registered under standard v1.2 §4. Self-certification nature stated honestly: there is no external body to certify a self-defined field; the force of a certification lies in the objectivity of its criteria — every claim is independently re-checkable.
+
 **Register status**: five members certified; the register remaining at five members for an extended period is the normal state — scarcity is guaranteed by the severity of the criteria (see §6.2 of the standard: four serial filters, with a 12:0 measured elimination rate at the specialization criterion), not by traffic. New members enter via the §4 process only.
 
 ## How to apply / interact
