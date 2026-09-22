@@ -13,6 +13,8 @@ Discipline (three layers):
 
 Quality gates: (1) *deletion test* — remove every framework term and the observational description must still stand; remove the observation and only words remain = rewrite; (2) *provenance test* — every factual claim traces to a published document.
 
+**Frozen one-volume edition (v1.0, Zenodo, CN)**: [10.5281/zenodo.22892144](https://doi.org/10.5281/zenodo.22892144) — general preface + all six pieces in one file (`constructive_mathematics_popular_CN_v1.0.md`), with the six standalone pieces as separate files.
+
 ## Series (merged v2.0)
 
 | # | Title | Paper (DOI) |
