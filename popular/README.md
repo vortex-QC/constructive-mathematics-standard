@@ -1,0 +1,21 @@
+# Popular translations (科普翻译)
+
+Plain-language companions to the published papers of the constructive mathematics program. Written in the **language of observation**: every framework term appears with a publicly observable anchor (a phenomenon anyone can see), and the reasoning process — including where we went wrong — is part of the text.
+
+Discipline (three layers):
+- **Academic papers**: zero framework vocabulary, no process narrative;
+- **Public axiom set**: observational semantics (plain language) + evidence pointers;
+- **This layer**: framework terms are *unlocked* (term + plain-language gloss + observable anchor), the reasoning process is in the text — the system-semantics reading is not unfolded here either.
+
+Quality gates: (1) *deletion test* — remove every framework term and the observational description must still stand; remove the observation and only words remain = rewrite; (2) *provenance test* — every factual claim traces to a published document.
+
+## Series
+
+| # | Title | Paper (DOI) |
+|---|---|---|
+| 01 | Numbers are a cloud: is mathematics invented or discovered? (CN) | Density Mathematics I, statics core — [22773691](https://doi.org/10.5281/zenodo.22773691) |
+| 02 | Fifteen shapes left by motion: does form have a periodic table? (CN) | Taxonomy of Forms, 4b experimental layer — [22794515](https://doi.org/10.5281/zenodo.22794515) |
+
+Both are written in Chinese (the audience language); English versions follow when the series is validated.
+
+— Maintained alongside the standard; see the main README for the program structure.
