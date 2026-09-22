@@ -19,6 +19,7 @@ Maintainer: Chao Qin (ORCID [0009-0006-2000-5644](https://orcid.org/0009-0006-20
 | `certification_application_template_v0.2.md` | The application template (P0 + C1–C7, item by item) |
 | `posed_problem_001_distribution_semiring_spectral_theorem_v0.1.md` | Posed problem #001 (D-Ⅱ→Ⅲ / O0 / S) |
 | `solicitation_axisless_electron_v0.1.md` | Fourth-tier solicitation: descriptions and tests of the published axisless-electron concept |
+| [`popular/`](popular/) | **Popular translations (科普翻译)**: plain-language companions to the published papers, written in the language of observation (framework terms unlocked with observable anchors; reasoning process included); discipline + series index in `popular/README.md` |
 
 ## The genealogy register (current snapshot)
 
