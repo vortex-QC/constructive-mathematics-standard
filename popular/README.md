@@ -15,7 +15,9 @@ Quality gates: (1) *deletion test* — remove every framework term and the obser
 |---|---|---|
 | 01 | Numbers are a cloud: is mathematics invented or discovered? (CN) | Density Mathematics I, statics core — [22773691](https://doi.org/10.5281/zenodo.22773691) |
 | 02 | Fifteen shapes left by motion: does form have a periodic table? (CN) | Taxonomy of Forms, 4b experimental layer — [22794515](https://doi.org/10.5281/zenodo.22794515) |
+| 03 | Numbers are gathered: how four axioms grew (axiom story · number layer) (CN) | Density Mathematics I — [22773691](https://doi.org/10.5281/zenodo.22773691); axiom set [22886345](https://doi.org/10.5281/zenodo.22886345) |
+| 04 | Shapes need no boundaries: two axioms, and a direction overturned (axiom story · geometry layer) (CN) | Geometry of Boundless Motion — [22785851](https://doi.org/10.5281/zenodo.22785851); Taxonomy of Forms — [22794515](https://doi.org/10.5281/zenodo.22794515) |
 
-Both are written in Chinese (the audience language); English versions follow when the series is validated.
+01–02 are result stories (from an observation to the paper's conclusions); 03–04 open the **axiom-story** line (how each layer's axioms were induced from observation — including the candidates we cut and the directions we got wrong). All written in Chinese (the audience language); English versions follow when the series is validated.
 
 — Maintained alongside the standard; see the main README for the program structure.
