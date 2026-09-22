@@ -22,6 +22,7 @@ Quality gates: (1) *deletion test* — remove every framework term and the obser
 | 03 | The ratio world: from two axioms, to a universe that grows its own shapes | Spontaneous Ratio Structures — [22783549](https://doi.org/10.5281/zenodo.22783549); axiom set [22886345](https://doi.org/10.5281/zenodo.22886345) |
 | 04 | Where dimension comes from: an experiment you can do by closing one eye | The Generative Mechanism of Dimension — [22844311](https://doi.org/10.5281/zenodo.22844311); certification application 005 in this repo |
 | 05 | Statics is the steady state of motion: from three axioms, to a gap — and the piece that filled it | Statics as Manifestation — [22785052](https://doi.org/10.5281/zenodo.22785052); Anchor Numbers — [22866459](https://doi.org/10.5281/zenodo.22866459); Anchor Equations — [22877419](https://doi.org/10.5281/zenodo.22877419) |
+| 06 | Where the anchor is, there the limit is: one primitive, three destinations, and a new connective | Anchor Numbers — [22866459](https://doi.org/10.5281/zenodo.22866459); Anchor Equations — [22877419](https://doi.org/10.5281/zenodo.22877419) |
 
 `parts/` holds the earlier standalone editions (result story / axiom story separately), kept for link stability.
 
