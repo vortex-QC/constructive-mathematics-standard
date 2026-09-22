@@ -21,9 +21,10 @@ Quality gates: (1) *deletion test* — remove every framework term and the obser
 | 02 | Shapes need no boundaries: from an overturned direction, to two axioms, to fifteen forms | Geometry of Boundless Motion — [22785851](https://doi.org/10.5281/zenodo.22785851); Taxonomy of Forms — [22794515](https://doi.org/10.5281/zenodo.22794515) |
 | 03 | The ratio world: from two axioms, to a universe that grows its own shapes | Spontaneous Ratio Structures — [22783549](https://doi.org/10.5281/zenodo.22783549); axiom set [22886345](https://doi.org/10.5281/zenodo.22886345) |
 | 04 | Where dimension comes from: an experiment you can do by closing one eye | The Generative Mechanism of Dimension — [22844311](https://doi.org/10.5281/zenodo.22844311); certification application 005 in this repo |
+| 05 | Statics is the steady state of motion: from three axioms, to a gap — and the piece that filled it | Statics as Manifestation — [22785052](https://doi.org/10.5281/zenodo.22785052); Anchor Numbers — [22866459](https://doi.org/10.5281/zenodo.22866459); Anchor Equations — [22877419](https://doi.org/10.5281/zenodo.22877419) |
 
 `parts/` holds the earlier standalone editions (result story / axiom story separately), kept for link stability.
 
-All written in Chinese (the audience language); English versions follow when the series is validated.
+The series now covers all five member layers. All written in Chinese (the audience language); English versions follow when the series is validated.
 
 — Maintained alongside the standard; see the main README for the program structure.
